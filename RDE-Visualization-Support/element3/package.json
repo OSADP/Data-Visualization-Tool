@@ -1,0 +1,34 @@
+{
+  "name": "rde-visualization-support-element3",
+  "version": "1.0.0",
+  "description": "Support script for Element 3 of the RDE Visualization Website.",
+  "main": "vertex_generation.js",
+  "scripts": {
+    "build": "node vertex_generation.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FHWA/RDE-Visualization-Support.git"
+  },
+  "contributors": [
+    {
+      "name": "Michael Wenger"
+    },
+    {
+      "name": "Jason Nance"
+    }
+  ],
+  "license": "CC0-1.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/FHWA/RDE-Visualization-Support/issues"
+  },
+  "homepage": "https://github.com/FHWA/RDE-Visualization-Support#readme",
+  "dependencies": {
+    "babyparse": "^0.4.6",
+    "delaunay-fast": "^1.0.1",
+    "moment": "^2.15.0",
+    "seedrandom": "^2.4.2",
+    "turf": "^3.0.14"
+  }
+}

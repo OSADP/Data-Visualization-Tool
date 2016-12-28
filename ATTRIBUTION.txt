@@ -1,0 +1,10 @@
+Developers:
+Clay Heaton, Jason Nance, Marcia Underwood, and Michael Wenger from RTI International
+
+Other Contributors:
+Alan Karr and others from RTI International
+Wayne Kittelson and others from Kittelson and Associates, Inc.
+Rick Glassco, Sampson Asare, and others from Noblis
+Logan Nash and others from Volpe
+Jon Obenberger, Steve Beningo, Gabe Guevara, and others from the Federal Highway Administration
+Thomas Chase, Nagui Rouphail, and others from the Institute for Transportation Research and Education at North Carolina State University

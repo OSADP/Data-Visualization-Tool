@@ -1,0 +1,1 @@
+Each component of the Data Visualization Tool has its own license.  Refer to "LICENSE.md" in the RDE-Visualization-Website and RDE-Visualization-Support folders for details.
